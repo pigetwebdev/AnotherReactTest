@@ -1,0 +1,10 @@
+.DemoPageWrapper{
+    background-image: url('../../asset/img_back.png');
+    /* background-position: center; */
+    background-size: cover;
+    padding: 50px;
+    width: 1414px;
+    height: 868px;
+    display: block;
+
+}

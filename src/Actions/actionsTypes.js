@@ -1,0 +1,1 @@
+export const MOVE_NEXT_PAGE = 'MOVE_NEXT_PAGE'

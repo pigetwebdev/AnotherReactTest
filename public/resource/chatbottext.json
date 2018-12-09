@@ -1,0 +1,30 @@
+{
+    "question": "We have an awesome jeans selection, right?",
+    "options": [
+      {
+        "answer": "Yeah!",
+        "question": "What style of jeans you like?",
+        "options": [
+          {
+            "answer": "Slim",
+            "question": "Great choice",
+            "options": null
+          },{
+            "answer": "Classic",
+            "question": "Fantastic choice",
+            "options": null
+          },{
+            "answer": "Wide",
+            "question": "Superb choice",
+            "options": null
+          }
+        ]
+      },
+      {
+        "answer": "Nope",
+        "question": "So frustrating to hear that",
+        "options": null
+      }
+    ]
+    
+  }
